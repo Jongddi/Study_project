@@ -1,0 +1,12 @@
+D:\source\repos\예제\BoxingUnboxing\BoxingUnboxing\bin\Debug\netcoreapp3.1\BoxingUnboxing.exe
+D:\source\repos\예제\BoxingUnboxing\BoxingUnboxing\bin\Debug\netcoreapp3.1\BoxingUnboxing.deps.json
+D:\source\repos\예제\BoxingUnboxing\BoxingUnboxing\bin\Debug\netcoreapp3.1\BoxingUnboxing.runtimeconfig.json
+D:\source\repos\예제\BoxingUnboxing\BoxingUnboxing\bin\Debug\netcoreapp3.1\BoxingUnboxing.runtimeconfig.dev.json
+D:\source\repos\예제\BoxingUnboxing\BoxingUnboxing\bin\Debug\netcoreapp3.1\BoxingUnboxing.dll
+D:\source\repos\예제\BoxingUnboxing\BoxingUnboxing\bin\Debug\netcoreapp3.1\BoxingUnboxing.pdb
+D:\source\repos\예제\BoxingUnboxing\BoxingUnboxing\obj\Debug\netcoreapp3.1\BoxingUnboxing.AssemblyInfoInputs.cache
+D:\source\repos\예제\BoxingUnboxing\BoxingUnboxing\obj\Debug\netcoreapp3.1\BoxingUnboxing.AssemblyInfo.cs
+D:\source\repos\예제\BoxingUnboxing\BoxingUnboxing\obj\Debug\netcoreapp3.1\BoxingUnboxing.csproj.CoreCompileInputs.cache
+D:\source\repos\예제\BoxingUnboxing\BoxingUnboxing\obj\Debug\netcoreapp3.1\BoxingUnboxing.dll
+D:\source\repos\예제\BoxingUnboxing\BoxingUnboxing\obj\Debug\netcoreapp3.1\BoxingUnboxing.pdb
+D:\source\repos\예제\BoxingUnboxing\BoxingUnboxing\obj\Debug\netcoreapp3.1\BoxingUnboxing.genruntimeconfig.cache

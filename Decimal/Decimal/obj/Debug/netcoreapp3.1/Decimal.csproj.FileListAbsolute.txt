@@ -1,0 +1,12 @@
+D:\source\repos\예제\Decimal\Decimal\bin\Debug\netcoreapp3.1\Decimal.exe
+D:\source\repos\예제\Decimal\Decimal\bin\Debug\netcoreapp3.1\Decimal.deps.json
+D:\source\repos\예제\Decimal\Decimal\bin\Debug\netcoreapp3.1\Decimal.runtimeconfig.json
+D:\source\repos\예제\Decimal\Decimal\bin\Debug\netcoreapp3.1\Decimal.runtimeconfig.dev.json
+D:\source\repos\예제\Decimal\Decimal\bin\Debug\netcoreapp3.1\Decimal.dll
+D:\source\repos\예제\Decimal\Decimal\bin\Debug\netcoreapp3.1\Decimal.pdb
+D:\source\repos\예제\Decimal\Decimal\obj\Debug\netcoreapp3.1\Decimal.AssemblyInfoInputs.cache
+D:\source\repos\예제\Decimal\Decimal\obj\Debug\netcoreapp3.1\Decimal.AssemblyInfo.cs
+D:\source\repos\예제\Decimal\Decimal\obj\Debug\netcoreapp3.1\Decimal.csproj.CoreCompileInputs.cache
+D:\source\repos\예제\Decimal\Decimal\obj\Debug\netcoreapp3.1\Decimal.dll
+D:\source\repos\예제\Decimal\Decimal\obj\Debug\netcoreapp3.1\Decimal.pdb
+D:\source\repos\예제\Decimal\Decimal\obj\Debug\netcoreapp3.1\Decimal.genruntimeconfig.cache

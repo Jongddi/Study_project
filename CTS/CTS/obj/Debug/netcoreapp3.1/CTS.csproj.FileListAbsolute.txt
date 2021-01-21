@@ -1,0 +1,12 @@
+D:\source\repos\예제\CTS\CTS\bin\Debug\netcoreapp3.1\CTS.exe
+D:\source\repos\예제\CTS\CTS\bin\Debug\netcoreapp3.1\CTS.deps.json
+D:\source\repos\예제\CTS\CTS\bin\Debug\netcoreapp3.1\CTS.runtimeconfig.json
+D:\source\repos\예제\CTS\CTS\bin\Debug\netcoreapp3.1\CTS.runtimeconfig.dev.json
+D:\source\repos\예제\CTS\CTS\bin\Debug\netcoreapp3.1\CTS.dll
+D:\source\repos\예제\CTS\CTS\bin\Debug\netcoreapp3.1\CTS.pdb
+D:\source\repos\예제\CTS\CTS\obj\Debug\netcoreapp3.1\CTS.AssemblyInfoInputs.cache
+D:\source\repos\예제\CTS\CTS\obj\Debug\netcoreapp3.1\CTS.AssemblyInfo.cs
+D:\source\repos\예제\CTS\CTS\obj\Debug\netcoreapp3.1\CTS.csproj.CoreCompileInputs.cache
+D:\source\repos\예제\CTS\CTS\obj\Debug\netcoreapp3.1\CTS.dll
+D:\source\repos\예제\CTS\CTS\obj\Debug\netcoreapp3.1\CTS.pdb
+D:\source\repos\예제\CTS\CTS\obj\Debug\netcoreapp3.1\CTS.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\source\repos\예제\UsingVar\UsingVar\bin\Debug\netcoreapp3.1\UsingVar.exe
+D:\source\repos\예제\UsingVar\UsingVar\bin\Debug\netcoreapp3.1\UsingVar.deps.json
+D:\source\repos\예제\UsingVar\UsingVar\bin\Debug\netcoreapp3.1\UsingVar.runtimeconfig.json
+D:\source\repos\예제\UsingVar\UsingVar\bin\Debug\netcoreapp3.1\UsingVar.runtimeconfig.dev.json
+D:\source\repos\예제\UsingVar\UsingVar\bin\Debug\netcoreapp3.1\UsingVar.dll
+D:\source\repos\예제\UsingVar\UsingVar\bin\Debug\netcoreapp3.1\UsingVar.pdb
+D:\source\repos\예제\UsingVar\UsingVar\obj\Debug\netcoreapp3.1\UsingVar.csprojAssemblyReference.cache
+D:\source\repos\예제\UsingVar\UsingVar\obj\Debug\netcoreapp3.1\UsingVar.AssemblyInfoInputs.cache
+D:\source\repos\예제\UsingVar\UsingVar\obj\Debug\netcoreapp3.1\UsingVar.AssemblyInfo.cs
+D:\source\repos\예제\UsingVar\UsingVar\obj\Debug\netcoreapp3.1\UsingVar.csproj.CoreCompileInputs.cache
+D:\source\repos\예제\UsingVar\UsingVar\obj\Debug\netcoreapp3.1\UsingVar.dll
+D:\source\repos\예제\UsingVar\UsingVar\obj\Debug\netcoreapp3.1\UsingVar.pdb
+D:\source\repos\예제\UsingVar\UsingVar\obj\Debug\netcoreapp3.1\UsingVar.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\source\repos\예제\Char\Char\bin\Debug\netcoreapp3.1\Char.exe
+D:\source\repos\예제\Char\Char\bin\Debug\netcoreapp3.1\Char.deps.json
+D:\source\repos\예제\Char\Char\bin\Debug\netcoreapp3.1\Char.runtimeconfig.json
+D:\source\repos\예제\Char\Char\bin\Debug\netcoreapp3.1\Char.runtimeconfig.dev.json
+D:\source\repos\예제\Char\Char\bin\Debug\netcoreapp3.1\Char.dll
+D:\source\repos\예제\Char\Char\bin\Debug\netcoreapp3.1\Char.pdb
+D:\source\repos\예제\Char\Char\obj\Debug\netcoreapp3.1\Char.AssemblyInfoInputs.cache
+D:\source\repos\예제\Char\Char\obj\Debug\netcoreapp3.1\Char.AssemblyInfo.cs
+D:\source\repos\예제\Char\Char\obj\Debug\netcoreapp3.1\Char.csproj.CoreCompileInputs.cache
+D:\source\repos\예제\Char\Char\obj\Debug\netcoreapp3.1\Char.dll
+D:\source\repos\예제\Char\Char\obj\Debug\netcoreapp3.1\Char.pdb
+D:\source\repos\예제\Char\Char\obj\Debug\netcoreapp3.1\Char.genruntimeconfig.cache

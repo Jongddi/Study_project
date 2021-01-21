@@ -1,0 +1,12 @@
+D:\source\repos\예제\IncDecOperator\IncDecOperator\bin\Debug\netcoreapp3.1\IncDecOperator.exe
+D:\source\repos\예제\IncDecOperator\IncDecOperator\bin\Debug\netcoreapp3.1\IncDecOperator.deps.json
+D:\source\repos\예제\IncDecOperator\IncDecOperator\bin\Debug\netcoreapp3.1\IncDecOperator.runtimeconfig.json
+D:\source\repos\예제\IncDecOperator\IncDecOperator\bin\Debug\netcoreapp3.1\IncDecOperator.runtimeconfig.dev.json
+D:\source\repos\예제\IncDecOperator\IncDecOperator\bin\Debug\netcoreapp3.1\IncDecOperator.dll
+D:\source\repos\예제\IncDecOperator\IncDecOperator\bin\Debug\netcoreapp3.1\IncDecOperator.pdb
+D:\source\repos\예제\IncDecOperator\IncDecOperator\obj\Debug\netcoreapp3.1\IncDecOperator.AssemblyInfoInputs.cache
+D:\source\repos\예제\IncDecOperator\IncDecOperator\obj\Debug\netcoreapp3.1\IncDecOperator.AssemblyInfo.cs
+D:\source\repos\예제\IncDecOperator\IncDecOperator\obj\Debug\netcoreapp3.1\IncDecOperator.csproj.CoreCompileInputs.cache
+D:\source\repos\예제\IncDecOperator\IncDecOperator\obj\Debug\netcoreapp3.1\IncDecOperator.dll
+D:\source\repos\예제\IncDecOperator\IncDecOperator\obj\Debug\netcoreapp3.1\IncDecOperator.pdb
+D:\source\repos\예제\IncDecOperator\IncDecOperator\obj\Debug\netcoreapp3.1\IncDecOperator.genruntimeconfig.cache

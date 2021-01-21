@@ -1,0 +1,12 @@
+D:\source\repos\예제\ArithmaticOperators\ArithmaticOperators\bin\Debug\netcoreapp3.1\ArithmaticOperators.exe
+D:\source\repos\예제\ArithmaticOperators\ArithmaticOperators\bin\Debug\netcoreapp3.1\ArithmaticOperators.deps.json
+D:\source\repos\예제\ArithmaticOperators\ArithmaticOperators\bin\Debug\netcoreapp3.1\ArithmaticOperators.runtimeconfig.json
+D:\source\repos\예제\ArithmaticOperators\ArithmaticOperators\bin\Debug\netcoreapp3.1\ArithmaticOperators.runtimeconfig.dev.json
+D:\source\repos\예제\ArithmaticOperators\ArithmaticOperators\bin\Debug\netcoreapp3.1\ArithmaticOperators.dll
+D:\source\repos\예제\ArithmaticOperators\ArithmaticOperators\bin\Debug\netcoreapp3.1\ArithmaticOperators.pdb
+D:\source\repos\예제\ArithmaticOperators\ArithmaticOperators\obj\Debug\netcoreapp3.1\ArithmaticOperators.AssemblyInfoInputs.cache
+D:\source\repos\예제\ArithmaticOperators\ArithmaticOperators\obj\Debug\netcoreapp3.1\ArithmaticOperators.AssemblyInfo.cs
+D:\source\repos\예제\ArithmaticOperators\ArithmaticOperators\obj\Debug\netcoreapp3.1\ArithmaticOperators.csproj.CoreCompileInputs.cache
+D:\source\repos\예제\ArithmaticOperators\ArithmaticOperators\obj\Debug\netcoreapp3.1\ArithmaticOperators.dll
+D:\source\repos\예제\ArithmaticOperators\ArithmaticOperators\obj\Debug\netcoreapp3.1\ArithmaticOperators.pdb
+D:\source\repos\예제\ArithmaticOperators\ArithmaticOperators\obj\Debug\netcoreapp3.1\ArithmaticOperators.genruntimeconfig.cache

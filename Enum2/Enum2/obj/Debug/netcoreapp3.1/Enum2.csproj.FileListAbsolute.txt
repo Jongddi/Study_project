@@ -1,0 +1,12 @@
+D:\source\repos\예제\Enum2\Enum2\bin\Debug\netcoreapp3.1\Enum2.exe
+D:\source\repos\예제\Enum2\Enum2\bin\Debug\netcoreapp3.1\Enum2.deps.json
+D:\source\repos\예제\Enum2\Enum2\bin\Debug\netcoreapp3.1\Enum2.runtimeconfig.json
+D:\source\repos\예제\Enum2\Enum2\bin\Debug\netcoreapp3.1\Enum2.runtimeconfig.dev.json
+D:\source\repos\예제\Enum2\Enum2\bin\Debug\netcoreapp3.1\Enum2.dll
+D:\source\repos\예제\Enum2\Enum2\bin\Debug\netcoreapp3.1\Enum2.pdb
+D:\source\repos\예제\Enum2\Enum2\obj\Debug\netcoreapp3.1\Enum2.AssemblyInfoInputs.cache
+D:\source\repos\예제\Enum2\Enum2\obj\Debug\netcoreapp3.1\Enum2.AssemblyInfo.cs
+D:\source\repos\예제\Enum2\Enum2\obj\Debug\netcoreapp3.1\Enum2.csproj.CoreCompileInputs.cache
+D:\source\repos\예제\Enum2\Enum2\obj\Debug\netcoreapp3.1\Enum2.dll
+D:\source\repos\예제\Enum2\Enum2\obj\Debug\netcoreapp3.1\Enum2.pdb
+D:\source\repos\예제\Enum2\Enum2\obj\Debug\netcoreapp3.1\Enum2.genruntimeconfig.cache

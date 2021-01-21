@@ -1,0 +1,12 @@
+D:\source\repos\예제\Enum3\Enum3\obj\Debug\netcoreapp3.1\Enum3.AssemblyInfoInputs.cache
+D:\source\repos\예제\Enum3\Enum3\obj\Debug\netcoreapp3.1\Enum3.AssemblyInfo.cs
+D:\source\repos\예제\Enum3\Enum3\obj\Debug\netcoreapp3.1\Enum3.csproj.CoreCompileInputs.cache
+D:\source\repos\예제\Enum3\Enum3\bin\Debug\netcoreapp3.1\Enum3.exe
+D:\source\repos\예제\Enum3\Enum3\bin\Debug\netcoreapp3.1\Enum3.deps.json
+D:\source\repos\예제\Enum3\Enum3\bin\Debug\netcoreapp3.1\Enum3.runtimeconfig.json
+D:\source\repos\예제\Enum3\Enum3\bin\Debug\netcoreapp3.1\Enum3.runtimeconfig.dev.json
+D:\source\repos\예제\Enum3\Enum3\bin\Debug\netcoreapp3.1\Enum3.dll
+D:\source\repos\예제\Enum3\Enum3\bin\Debug\netcoreapp3.1\Enum3.pdb
+D:\source\repos\예제\Enum3\Enum3\obj\Debug\netcoreapp3.1\Enum3.dll
+D:\source\repos\예제\Enum3\Enum3\obj\Debug\netcoreapp3.1\Enum3.pdb
+D:\source\repos\예제\Enum3\Enum3\obj\Debug\netcoreapp3.1\Enum3.genruntimeconfig.cache

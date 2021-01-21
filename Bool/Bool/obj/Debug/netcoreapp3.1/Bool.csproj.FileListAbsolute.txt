@@ -1,0 +1,12 @@
+D:\source\repos\예제\Bool\Bool\bin\Debug\netcoreapp3.1\Bool.exe
+D:\source\repos\예제\Bool\Bool\bin\Debug\netcoreapp3.1\Bool.deps.json
+D:\source\repos\예제\Bool\Bool\bin\Debug\netcoreapp3.1\Bool.runtimeconfig.json
+D:\source\repos\예제\Bool\Bool\bin\Debug\netcoreapp3.1\Bool.runtimeconfig.dev.json
+D:\source\repos\예제\Bool\Bool\bin\Debug\netcoreapp3.1\Bool.dll
+D:\source\repos\예제\Bool\Bool\bin\Debug\netcoreapp3.1\Bool.pdb
+D:\source\repos\예제\Bool\Bool\obj\Debug\netcoreapp3.1\Bool.AssemblyInfoInputs.cache
+D:\source\repos\예제\Bool\Bool\obj\Debug\netcoreapp3.1\Bool.AssemblyInfo.cs
+D:\source\repos\예제\Bool\Bool\obj\Debug\netcoreapp3.1\Bool.csproj.CoreCompileInputs.cache
+D:\source\repos\예제\Bool\Bool\obj\Debug\netcoreapp3.1\Bool.dll
+D:\source\repos\예제\Bool\Bool\obj\Debug\netcoreapp3.1\Bool.pdb
+D:\source\repos\예제\Bool\Bool\obj\Debug\netcoreapp3.1\Bool.genruntimeconfig.cache
