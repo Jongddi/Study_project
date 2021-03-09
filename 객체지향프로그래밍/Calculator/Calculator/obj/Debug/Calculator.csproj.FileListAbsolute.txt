@@ -1,0 +1,10 @@
+D:\my_study\객체지향프로그래밍\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\my_study\객체지향프로그래밍\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\my_study\객체지향프로그래밍\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\my_study\객체지향프로그래밍\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\my_study\객체지향프로그래밍\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\my_study\객체지향프로그래밍\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\my_study\객체지향프로그래밍\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\my_study\객체지향프로그래밍\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\my_study\객체지향프로그래밍\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\my_study\객체지향프로그래밍\Calculator\Calculator\obj\Debug\Calculator.pdb
