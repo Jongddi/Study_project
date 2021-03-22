@@ -1,0 +1,4 @@
+﻿  소스.c
+D:\my_study\자료구조\Array_Delete\Array_Delete\소스.c(26,22): warning C4020: 'delete': 실제 매개 변수가 너무 많습니다.
+D:\my_study\자료구조\Array_Delete\Array_Delete\소스.c(33,5): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
+  Array_Delete.vcxproj -> D:\my_study\자료구조\Array_Delete\Debug\Array_Delete.exe

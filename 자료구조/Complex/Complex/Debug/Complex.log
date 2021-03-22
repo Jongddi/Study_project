@@ -1,0 +1,4 @@
+﻿  Complex.c
+D:\my_study\자료구조\Complex\Complex\Complex.c(23,17): warning C4101: 'result' :참조되지 않은 지역 변수입니다.
+D:\my_study\자료구조\Complex\Complex\Complex.c(18): warning C4716: 'complex_add': 값을 반환해야 합니다.
+  Complex.vcxproj -> D:\my_study\자료구조\Complex\Debug\Complex.exe
