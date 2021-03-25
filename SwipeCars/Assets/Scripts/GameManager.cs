@@ -19,13 +19,19 @@ public class GameManager : MonoBehaviour
     void Update()
     {
         float length = this.flag.transform.position.x - this.car.transform.position.x;
-        if (length >= 0)
+        if (length < 10 && length > -10)
         {
-            this.distance.GetComponent<Text>().text = "목표 지점까지" + length.ToString("F2") + "m";
+            this.distance.GetComponent<Text>().text = "점수 : 1점";
+            if (length < 5 && length > -5)
+			{
+                this.distance.GetComponent<Text>().text = "점수 : 5점";
+                if (length < 1 && length > -1)
+				{
+                    this.distance.GetComponent<Text>().text = "점수 : 10점";
+                }
+            }
         }
         else
-        {
-            this.distance.GetComponent<Text>().text = "게임 오버";
-        }
+            this.distance.GetComponent<Text>().text = "점수 : ";
     }
 }

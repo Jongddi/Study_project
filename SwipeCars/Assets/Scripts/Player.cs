@@ -19,7 +19,7 @@ public class Player : MonoBehaviour
         {
             // 마우스 버튼에서 손가락을 떼었을 때 좌표
             Vector2 endPos = Input.mousePosition;
-            float swipeLength = endPos.x - this.startPos.x;
+            float swipeLength = this.startPos.x - endPos.x;
 
             // 스와이프 길이를 처음 속도로 변환한다
             this.speed = swipeLength / 500.0f;
