@@ -1,0 +1,4 @@
+﻿  paren.c
+C:\Users\ajh81\Desktop\2학년 1학기\자료구조\새 폴더\자료구조(개정3판)_학습자용\소스\chap04\paren.c(67,21): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\ajh81\Desktop\2학년 1학기\자료구조\새 폴더\자료구조(개정3판)_학습자용\소스\chap04\paren.c(64,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Parenthesis.vcxproj -> D:\my_study\자료구조\Parenthesis\Debug\Parenthesis.exe
