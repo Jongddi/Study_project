@@ -1,0 +1,4 @@
+﻿  Fib.c
+D:\my_study\자료구조\QueFib\QueFib\Fib.c(76,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\my_study\자료구조\QueFib\QueFib\Fib.c(52): warning C4716: 'peek': 값을 반환해야 합니다.
+  QueFib.vcxproj -> D:\my_study\자료구조\QueFib\Debug\QueFib.exe
