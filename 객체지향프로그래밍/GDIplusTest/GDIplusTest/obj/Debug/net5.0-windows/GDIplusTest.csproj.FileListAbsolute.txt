@@ -1,0 +1,17 @@
+D:\my_study\객체지향프로그래밍\miniPaint\miniPaint\bin\Debug\net5.0-windows\GDIplusTest.exe
+D:\my_study\객체지향프로그래밍\miniPaint\miniPaint\bin\Debug\net5.0-windows\GDIplusTest.deps.json
+D:\my_study\객체지향프로그래밍\miniPaint\miniPaint\bin\Debug\net5.0-windows\GDIplusTest.runtimeconfig.json
+D:\my_study\객체지향프로그래밍\miniPaint\miniPaint\bin\Debug\net5.0-windows\GDIplusTest.runtimeconfig.dev.json
+D:\my_study\객체지향프로그래밍\miniPaint\miniPaint\bin\Debug\net5.0-windows\GDIplusTest.dll
+D:\my_study\객체지향프로그래밍\miniPaint\miniPaint\bin\Debug\net5.0-windows\ref\GDIplusTest.dll
+D:\my_study\객체지향프로그래밍\miniPaint\miniPaint\bin\Debug\net5.0-windows\GDIplusTest.pdb
+D:\my_study\객체지향프로그래밍\miniPaint\miniPaint\obj\Debug\net5.0-windows\miniPaint.Form1.resources
+D:\my_study\객체지향프로그래밍\miniPaint\miniPaint\obj\Debug\net5.0-windows\GDIplusTest.csproj.GenerateResource.cache
+D:\my_study\객체지향프로그래밍\miniPaint\miniPaint\obj\Debug\net5.0-windows\GDIplusTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\my_study\객체지향프로그래밍\miniPaint\miniPaint\obj\Debug\net5.0-windows\GDIplusTest.AssemblyInfoInputs.cache
+D:\my_study\객체지향프로그래밍\miniPaint\miniPaint\obj\Debug\net5.0-windows\GDIplusTest.AssemblyInfo.cs
+D:\my_study\객체지향프로그래밍\miniPaint\miniPaint\obj\Debug\net5.0-windows\GDIplusTest.csproj.CoreCompileInputs.cache
+D:\my_study\객체지향프로그래밍\miniPaint\miniPaint\obj\Debug\net5.0-windows\GDIplusTest.dll
+D:\my_study\객체지향프로그래밍\miniPaint\miniPaint\obj\Debug\net5.0-windows\ref\GDIplusTest.dll
+D:\my_study\객체지향프로그래밍\miniPaint\miniPaint\obj\Debug\net5.0-windows\GDIplusTest.pdb
+D:\my_study\객체지향프로그래밍\miniPaint\miniPaint\obj\Debug\net5.0-windows\GDIplusTest.genruntimeconfig.cache

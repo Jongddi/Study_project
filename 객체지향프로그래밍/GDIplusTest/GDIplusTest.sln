@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDIplusTest", "miniPaint\GDIplusTest.csproj", "{A74B3291-66FD-44B5-B81A-AC8B8FE80AE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A74B3291-66FD-44B5-B81A-AC8B8FE80AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A74B3291-66FD-44B5-B81A-AC8B8FE80AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A74B3291-66FD-44B5-B81A-AC8B8FE80AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A74B3291-66FD-44B5-B81A-AC8B8FE80AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7B89739-900C-4978-A6C3-A5D83A3F19F2}
+	EndGlobalSection
+EndGlobal
