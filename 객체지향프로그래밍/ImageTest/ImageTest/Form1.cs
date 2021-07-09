@@ -19,7 +19,7 @@ namespace ImageTest
 
 		private void Form1_Paint(object sender, PaintEventArgs e)
 		{
-			Image newImage = Image.FromFile("../../../Image/사과유.jpg");
+			Image newImage = Image.FromFile("../../../Image/아이유.jpg");
 
 			Point pt = new Point(0, 0);
 			e.Graphics.DrawImage(newImage, pt);
